@@ -63,6 +63,7 @@ body{
 	left: 15px;
 	box-shadow: 0 0 25px;
 	cursor: pointer;
+	transition: .2s ease-in;
 
 }
 
@@ -78,11 +79,11 @@ body{
 	left: 15px;
 	box-shadow: 0 0 25px;
     cursor: pointer;
+    transition: .2s ease-in;
 }
 
 .circle-black:hover{
 	background: #00FFFF;
-	transition: .2s ease-in;
 	
 	
 }
@@ -91,7 +92,7 @@ body{
 .circle-white:hover{
 
 	background: #800000;
-    transition: .2s ease-in;
+    
 }
 
 
