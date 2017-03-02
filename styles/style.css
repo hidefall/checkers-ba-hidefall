@@ -1,4 +1,10 @@
 
+body{
+	
+	background-color: #778899;
+}
+
+
 .header{
 	
 
@@ -35,7 +41,7 @@
 	position: fixed;
 	top: 0px;
 	bottom: 25px;
-	left: 550px;
+	left: 515px;
 	font-size: 50px;
 	
 	
@@ -43,7 +49,7 @@
 	
 }
 
-
+/* End-of-header-styles */
 
 .circle-white{
 	
